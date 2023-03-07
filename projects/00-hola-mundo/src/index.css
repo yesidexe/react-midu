@@ -1,0 +1,8 @@
+body{
+    margin: 0;
+    background-color: #222;
+    display: grid;
+    place-content: center;
+    font-family: system-ui;
+    min-height: 100vh;
+}
